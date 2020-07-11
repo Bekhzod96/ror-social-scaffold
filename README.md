@@ -1,6 +1,6 @@
 # Social media app with Ruby on Rails
 
-> Social Media app where user can sign in and post new post. In this project we implement light way of the Facebook app where users could send user request and comment/like to the other's post
+> Social Media app where user can sign in and post new post. In this project we implement light way of the Facebook app where users could send user request and comment/like to the other's post. Here user could see the fiends posts and could send a friendship to other user and accept is someone has already send it. Application tested using RSpec/Minitest (unit testing) and Capybara (integration tasting)
 
 
 ## Live view  - - [Friendship-Twitter](https://friendship-twitter.herokuapp.com/) - - 
